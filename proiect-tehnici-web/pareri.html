@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Iphone X</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+<body>
+
+<header class="header">
+  <img src="assets/img/logo.png" class="logo">
+</header>
+
+<nav>
+  <ul class="nav">
+    <li><a href="index.html">Acasa</a></li>
+    <li><a href="pareri.html">Pareri</a></li>
+  </ul>
+
+</nav>
+
+<section class="reviews">
+  <div class="text-center">
+    <h2>Adauga un review</h2>
+  </div>
+
+  <label>Nume:</label> <input type="text" id="username">
+
+</form>
+<br><br>
+<label>Rating:</label> <input type="text" id="rating">
+<br><br>
+<label>Produs:</label>
+<select id="produs" name="produs">
+                    <option value=""></option>
+                    <option value="Iphone X">Iphone X</option>
+                    <option value="Apple Watch">Apple Watch</option>
+                    <option value="Macbook Pro">Macbook Pro"</option>
+                </select>
+<br><br>
+<textarea rows="4" cols="50" id="comment" form="usrform"></textarea>
+<br><br>
+  <input type="button" value="Adauga" onclick="addReview()">
+  <br><br>
+
+<h3>Pareri:</h3>
+  <div class="comments"> </div>
+
+</section>
+
+
+<footer class="footer">
+  <h3>Proiect realizat de Malaescu Mircea</h3>
+</footer>
+
+<script src="assets/js/javascript.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+{
+  "comenzi": [
+    {
+      "nume": "gfdgd",
+      "prenume": "gdfgd",
+      "email": "gdfgd",
+      "adresa": "gdfgdf",
+      "produs": "IphoneX",
+      "id": 1
+    },
+    {
+      "nume": "vxcvx",
+      "prenume": "vxcv",
+      "email": "vcxvx",
+      "adresa": "vxcv",
+      "produs": "AppleWatch",
+      "id": 2
+    }
+  ],
+  "reviews": [
+    {
+      "username": "gfdgd",
+      "rating": "gfdg",
+      "produs": "fdgfdg",
+      "comment": "dfgfdg",
+      "id": 4
+    },
+    {
+      "username": "gfdgd",
+      "rating": "gfdg",
+      "produs": "Iphone X",
+      "comment": "gfdg",
+      "id": 5
+    },
+    {
+      "username": "gfdg",
+      "rating": "gfdg",
+      "produs": "Apple Watch",
+      "comment": "gbfdgdf",
+      "id": 6
+    }
+  ]
+}
