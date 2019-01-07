@@ -1,0 +1,29 @@
+{
+  "comenzi": [
+    {
+      "nume": "gfdgd",
+      "prenume": "gdfgd",
+      "email": "gdfgd",
+      "adresa": "gdfgdf",
+      "produs": "IphoneX",
+      "id": 1
+    },
+    {
+      "nume": "vxcvx",
+      "prenume": "vxcv",
+      "email": "vcxvx",
+      "adresa": "vxcv",
+      "produs": "AppleWatch",
+      "id": 2
+    }
+  ],
+  "reviews": [
+    {
+      "username": "Gigel",
+      "rating": "10",
+      "produs": "Iphone X",
+      "comment": "Un produs minunat!",
+      "id": 1
+    }
+  ]
+}
